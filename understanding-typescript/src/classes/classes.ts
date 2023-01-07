@@ -1,7 +1,7 @@
 class Department {
     // firstName: string;
     // private employees: string[] = []; //* private means 'employees' can only be access by method inside class
-    protected employees: string[] = []; //* protected means 'employees' can be access through inheritance
+    protected employees: string[] = []; //* protected means 'employees' can be access through inheritance and internal classes
 
     constructor(private readonly id: string, public firstName: string) {
         // this.firstName = props;
