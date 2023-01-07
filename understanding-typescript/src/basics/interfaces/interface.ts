@@ -25,3 +25,5 @@ user1 = new Person("Justine", 25);
 
 user1.greet("Hello there - I am");
 console.log(user1);
+
+//* Interfaces are good to use with classes unlike types.
