@@ -1,0 +1,1 @@
+{"version":3,"file":"generic-utility.js","sourceRoot":"","sources":["../../../src/advanced/generics/generic-utility.ts"],"names":[],"mappings":";AAiBA,SAAS,gBAAgB,CACrB,KAAa,EACb,WAAmB,EACnB,IAAU;IAGV,IAAI,UAAU,GAAwB,EAAE,CAAC;IACzC,UAAU,CAAC,KAAK,GAAG,KAAK,CAAC;IACzB,UAAU,CAAC,WAAW,GAAG,WAAW,CAAC;IACrC,UAAU,CAAC,aAAa,GAAG,IAAI,CAAC;IAChC,OAAO,UAAwB,CAAC;AACpC,CAAC"}
